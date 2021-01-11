@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Object2VR 3.1.9/10783
 // Filename: simplex_object.ggsk
-// Generated 월 1 11 16:33:19 2021
+// Generated 월 1 11 16:54:32 2021
 
 function object2vrSkin(player,base) {
 	var me=this;
